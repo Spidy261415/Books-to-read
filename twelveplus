@@ -1,5 +1,12 @@
 <!Doctype html>
 <html></html>
+<body style="background-color:lightblue;">
+      
+    
+    <header style="background-color:red; text-align:center;font-family:'segoe ui';color:white;">
+<h1>Books To Read</h1>      
+    </header> 
+      <div style="background-color: yellow">
      <nav style="text-align:center;font-size:30px";> <ul>
        
            <li  ><a href="index.html">Home </a> </li> 
